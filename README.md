@@ -1,7 +1,7 @@
 # SudokuSolver
 This program solves a given Sudoku puzzle.
 
-Currently it supports two strategies: [Simple markup](http://www.mathrec.org/sudoku/markup.html){:target="_blank"} and [Naked Pairs](http://www.sudokuwiki.org/naked_candidates){:target="_blank"}. However, the program is designed so that if in the future we want to add more strategies we can easily do it.
+Currently it supports two strategies: [Simple markup](http://www.mathrec.org/sudoku/markup.html) and [Naked Pairs](http://www.sudokuwiki.org/naked_candidates). However, the program is designed so that if in the future we want to add more strategies we can easily do it.
 
 I've included a [diagram](photos/FlowChart.png) in case you want to know how the program works.
 
