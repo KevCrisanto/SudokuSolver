@@ -9,10 +9,10 @@ I've included a [diagram](photos/FlowChart.png) in case you want to know how the
 
 You only need to type the path to the file containing the unsolved sudoku puzzle. The puzzle must be in the following format:
 
-![sudoku](photos/screenshots/sudoku.png)
+![sudoku](photos/screenshots/sudoku.PNG)
 
 ### Screenshots
 
-![hard](photos/screenshots/hard.png)
+![hard](photos/screenshots/hard.PNG)
 
-![medium](photos/screenshots/medium.png)
+![medium](photos/screenshots/medium.PNG)
